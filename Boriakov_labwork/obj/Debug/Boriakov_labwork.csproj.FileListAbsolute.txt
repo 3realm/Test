@@ -1,0 +1,11 @@
+C:\мои_документы\6102_020302D\Теория автоматов\Boriakov_labwork\bin\Debug\Boriakov_labwork.exe.config
+C:\мои_документы\6102_020302D\Теория автоматов\Boriakov_labwork\bin\Debug\Boriakov_labwork.exe
+C:\мои_документы\6102_020302D\Теория автоматов\Boriakov_labwork\bin\Debug\Boriakov_labwork.pdb
+C:\мои_документы\6102_020302D\Теория автоматов\Boriakov_labwork\obj\Debug\Boriakov_labwork.csproj.AssemblyReference.cache
+C:\мои_документы\6102_020302D\Теория автоматов\Boriakov_labwork\obj\Debug\Boriakov_labwork.csproj.SuggestedBindingRedirects.cache
+C:\мои_документы\6102_020302D\Теория автоматов\Boriakov_labwork\obj\Debug\Boriakov_labwork.Form1.resources
+C:\мои_документы\6102_020302D\Теория автоматов\Boriakov_labwork\obj\Debug\Boriakov_labwork.Properties.Resources.resources
+C:\мои_документы\6102_020302D\Теория автоматов\Boriakov_labwork\obj\Debug\Boriakov_labwork.csproj.GenerateResource.cache
+C:\мои_документы\6102_020302D\Теория автоматов\Boriakov_labwork\obj\Debug\Boriakov_labwork.csproj.CoreCompileInputs.cache
+C:\мои_документы\6102_020302D\Теория автоматов\Boriakov_labwork\obj\Debug\Boriakov_labwork.exe
+C:\мои_документы\6102_020302D\Теория автоматов\Boriakov_labwork\obj\Debug\Boriakov_labwork.pdb
